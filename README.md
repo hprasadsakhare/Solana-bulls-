@@ -42,6 +42,6 @@
 #### |------------|--------------|--------------|------------|--------------|--------------------|--------------|
 #### | GOOG       | amR3...7rs   | $88.8        | 6 SOL      | ADP1...WyPr  | $56                | User 1       |
 
-#### This table displays a snapshot of a past bet on Google (GOOG) between User 1 and User 2. User 1 predicted a stock amount of $88.8 and wagered 6 SOL tokens, while User 2 challenged with a guess of $56. The winner of this particular bet was User 1.
+#### This table displays a snapshot of a past bet on Google (GOOG) between User 1 and User 2. User 1 predicted a stock amount of $88.8 and wagered 6 SOL tokens, while User 2 challenged with a guess of $56. The winner of this particular bet was User 1. pre
 
 #### Feel free to explore your betting history and relive the excitement of each financial prediction!
